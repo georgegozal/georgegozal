@@ -2,13 +2,15 @@
 #### I am a python developer
 
 ## Skills and Experience:
-> - 💻  Python/Scrapy/BeautifulSoup/Pandas
+> - 💻 Python/Scrapy/BeautifulSoup/Pandas
 > - 💻 PostgreSQL/SQLite
 > - 💻 Linux/Bash
-> - re  Regular expression
+> - re Regular expression
 
 
-- ## 🌱 I’m currently learning Django, Splash. 
+- ## 🌱 I’m currently learning: 
+> - Django 
+> - Splash 
 
 
 
