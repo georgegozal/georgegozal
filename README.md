@@ -19,6 +19,8 @@ Skills: Python/scraping/linux
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgegozal)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=georgegozal&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgegozal)](https://github.com/anuraghazra/github-readme-stats) 
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=georgegozal&show_icons=true&theme=radical)
+
 
 
