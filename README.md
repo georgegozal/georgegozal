@@ -2,10 +2,10 @@
 #### I am a python developer
 
 ## Skills and Experience:
-💻 - Python/Scrapy/BeautifulSoup/Pandas/
-💻 - PostgreSQL/SQLite
-💻 - Linux/Bash
-'*'  - Regular expression
+> 💻 - Python/Scrapy/BeautifulSoup/Pandas/
+> 💻 - PostgreSQL/SQLite
+> 💻 - Linux/Bash
+> "*" - Regular expression
 
 
 - ## 🌱 I’m currently learning Django, Splash. 
