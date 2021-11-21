@@ -5,7 +5,7 @@
 💻 - Python/Scrapy/BeautifulSoup/Pandas/
 💻 - PostgreSQL/SQLite
 💻 - Linux/Bash
-*  - Regular expression
+'*'  - Regular expression
 
 
 - ## 🌱 I’m currently learning Django, Splash. 
