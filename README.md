@@ -1,11 +1,14 @@
 ### Hi there 👋, Hi i`m George from Georgia.
 #### I am a python developer
-![I am a python developer](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdatawider.com%2Fwp-content%2Fuploads%2F2019%2F11%2FHow-to-Learn-Python.jpg&f=1&nofb=1)
+![I am a python developer](https://raw.githubusercontent.com/georgegozal/georgegozal/main/Screenshot%20from%202021-11-21%2008-09-58.png)
 
 
 Skills: Python/scraping/linux
 
 - 🌱 I’m currently learning Django, Splash. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/georgegozal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/giorgi-gozalishvili-097993200//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14887655/george)  
 
 
 <p align='center'>
