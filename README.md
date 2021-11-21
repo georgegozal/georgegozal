@@ -1,8 +1,11 @@
 ### Hi there 👋, Hi i`m George from Georgia.
 #### I am a python developer
 
+## Skills and Experience:
+💻 - Python/Scrapy/BeautifulSoup/Pandas/
+💻 - Linux/Bash
+Regular expression
 
-Skills: Python/scraping/linux
 
 - 🌱 I’m currently learning Django, Splash. 
 
