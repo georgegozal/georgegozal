@@ -1,5 +1,5 @@
-### Hi there 👋, Hi i`m George from Georgia.
-#### I am a python developer
+### Hi there 👋.
+#### Hi i`m George from Georgia.I am a python developer
 
 ## Skills and Experience:
 > - 💻 Python/Scrapy/BeautifulSoup/Pandas
