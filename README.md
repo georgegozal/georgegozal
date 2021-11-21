@@ -1,6 +1,5 @@
 ### Hi there 👋, Hi i`m George from Georgia.
 #### I am a python developer
-![I am a python developer](https://raw.githubusercontent.com/georgegozal/georgegozal/main/Screenshot%20from%202021-11-21%2008-09-58.png)
 
 
 Skills: Python/scraping/linux
