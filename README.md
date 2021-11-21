@@ -8,7 +8,7 @@
 *  - Regular expression
 
 
-- 🌱 I’m currently learning Django, Splash. 
+- ## 🌱 I’m currently learning Django, Splash. 
 
 
 
