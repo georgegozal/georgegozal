@@ -2,9 +2,9 @@
 #### I am a python developer
 
 ## Skills and Experience:
-> 💻 - Python/Scrapy/BeautifulSoup/Pandas/
-> 💻 - PostgreSQL/SQLite
-> 💻 - Linux/Bash
+> - Python/Scrapy/BeautifulSoup/Pandas
+> - PostgreSQL/SQLite
+> - Linux/Bash
 > "*" - Regular expression
 
 
