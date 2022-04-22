@@ -9,6 +9,7 @@
 
 
 - ## 🌱 I’m currently learning: 
+> - Flask
 > - Odoo
 > - Django 
 > - Splash 
