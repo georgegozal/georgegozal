@@ -10,9 +10,7 @@
 
 - ## 🌱 I’m currently learning: 
 > - Flask
-> - Odoo
-> - Django 
-> - Splash 
+> - Selenium 
 
 ## 📫 How to reach me:
 
