@@ -19,6 +19,9 @@
 
 
 
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=georgegozal&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgegozal&show_icons=true&theme=radical)](https://github.com/georgegozal/github-readme-stats)
+-->
+[![GitHub Statistics](https://raw.githubusercontent.com/georgegozal/github-stats-transparent/output/generated/overview.svg)]
+[![GitHub Top Languages](https://raw.githubusercontent.com/georgegozal/github-stats-transparent/output/generated/languages.svg)]
