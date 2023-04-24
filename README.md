@@ -9,9 +9,8 @@
 
 
 - ## 🌱 I’m currently learning: 
+> - Google Cloud
 > - Flask
-> - Django
-> - Selenium 
 
 ## 📫 How to reach me:
 
