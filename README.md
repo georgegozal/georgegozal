@@ -10,7 +10,7 @@
 
 - ## 🌱 I’m currently learning: 
 > - Google Cloud
-> - Flask
+> - Django
 
 ## 📫 How to reach me:
 
