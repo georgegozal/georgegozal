@@ -11,6 +11,7 @@
 - ## 🌱 I’m currently learning: 
 > - Google Cloud
 > - Django
+> - React
 
 ## 📫 How to reach me:
 
