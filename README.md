@@ -9,7 +9,7 @@
 
 
 - ## 🌱 I’m currently learning: 
-> - Google Cloud
+> - Odoo
 > - Django
 > - Javascript
 
