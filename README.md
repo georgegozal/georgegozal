@@ -2,10 +2,12 @@
 #### Hi i`m George from Georgia. I am a python developer.
 
 ## Skills and Experience:
-> - 💻 Python/Scrapy/BeautifulSoup/Pandas
-> - 💻 PostgreSQL/MySQL/MongoDB
-> - 💻 Linux/Bash
-> - re Regular expression
+> - 💻 Python: Flask, Django, Scrapy, BeautifulSoup, Pandas
+> - 💻 Databases: PostgreSQL, MySQL, MongoDB
+> - 💻 Web Scraping: Scrapy, BeautifulSoup, Selenium, Playwright
+> - 💻 Linux/Bash: Extensive experience working in Linux environments
+> - 💻 Web Development: Flask, Django, REST APIs
+> - 🔍 Regular Expressions
 
 
 - ## 🌱 I’m currently learning: 
