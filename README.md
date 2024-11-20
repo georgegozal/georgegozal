@@ -12,7 +12,6 @@
 
 - ## 🌱 I’m currently learning: 
 > - Odoo
-> - Django
 > - Javascript
 
 ## 📫 How to reach me:
