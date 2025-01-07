@@ -13,6 +13,7 @@
 - ## 🌱 I’m currently learning: 
 > - Odoo
 > - Javascript
+> - GUI - tkinter
 
 ## 📫 How to reach me:
 
