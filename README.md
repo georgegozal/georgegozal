@@ -65,7 +65,7 @@
 -->
 
 
-
+![](https://raw.githubusercontent.com/georgegozal/github_stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/georgegozal/github_stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/georgegozal/github_stats/master/generated/languages.svg#gh-light-mode-only)
 
