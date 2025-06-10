@@ -65,8 +65,10 @@
 -->
 
 
-![](https://raw.githubusercontent.com/georgegozal/github_stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/georgegozal/github_stats/master/generated/languages.svg)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georgegozal&layout=compact&theme=radical&exclude_repo=myfiles,codecademy_projects,data_analysis_and_visualisation)
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgegozal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=True&theme=radical)
+<!--![](https://raw.githubusercontent.com/georgegozal/github_stats/master/generated/overview.svg)-->
+<!--![](https://raw.githubusercontent.com/georgegozal/github_stats/master/generated/languages.svg)-->
 <!--![](https://raw.githubusercontent.com/georgegozal/github_stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/georgegozal/github_stats/master/generated/languages.svg#gh-light-mode-only)
 -->
