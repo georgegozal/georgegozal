@@ -12,8 +12,8 @@
 
 - ## 🌱 I’m currently learning: 
 > - Odoo
-> - Javascript
-> - GUI - tkinter
+> - Bash Scripting
+> - Docker
 
 ## 📫 How to reach me:
 
